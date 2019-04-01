@@ -1,0 +1,35 @@
+body { 
+  padding-top: 70px; 
+  font-family: Lato;
+  background: white;
+}
+
+    .jumbotron {
+      margin-top: -65px;
+      color: #2c3e50;
+      background:#009975;
+      height: 120px;
+      border:2px solid white;
+      border-radius:20px;
+    }
+
+
+    img {
+      height: 100px;
+      width: 100px;
+      position:absolute;
+      top:2.2%;
+      left: 82%; 
+    }
+
+    #logo{
+      height: 115px;
+      width: 200px;
+      position:absolute;
+      top:1%;
+      left: 9%;
+
+
+    }
+
+    
